@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 00c5ce7e-0fd7-4cd3-a9db-6da730e08eeb
+  name: Menu
+  url: /pages/pag
+  weight: 10
