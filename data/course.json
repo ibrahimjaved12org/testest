@@ -1,0 +1,31 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "testest"
+  },
+  "course_image": {
+    "content": "",
+    "website": "testest"
+  },
+  "course_title": "testscourse",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "225",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "testest"
+  },
+  "learning_resource_types": [],
+  "site_uid": "af49ba57-05bf-4e37-bb49-f08c6a9f1723",
+  "site_short_id": "testest"
+}
